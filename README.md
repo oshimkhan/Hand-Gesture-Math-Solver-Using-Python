@@ -61,7 +61,7 @@
   3. **Execute the main script**
 
 ```bash
-python math_solver.py
+python math_sol.py
 ```
  4. **Interact with the Application**
    
