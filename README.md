@@ -95,7 +95,3 @@ python math_sol.py
           * `canvas`: Canvas containing the drawn content.
           * `fingers`: Array indicating the state of fingers (e.g., for gesture recognition).
 
-## License
- 
- * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
-
