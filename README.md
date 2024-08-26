@@ -34,7 +34,7 @@
   1. **Clone the repository:**
  
      ```bash
-     git clone https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver.git
+     git clone https://github.com/oshimkhan/Hand-Gesture-Math-Solver-Using-Python.git
      cd Hand-Gesture-Math-Solver
      ```
  
