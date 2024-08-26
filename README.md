@@ -28,7 +28,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![pillow](https://img.shields.io/badge/pillow_-blue)
 
-* C++ compiler - install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 ## Installation
  
@@ -95,33 +94,6 @@ python math_solver.py
           * `model`: Instance of the Generative AI model.
           * `canvas`: Canvas containing the drawn content.
           * `fingers`: Array indicating the state of fingers (e.g., for gesture recognition).
-
-
-
-## Hand Detection Concept
-
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/196a14ec-6067-494c-8e06-69873fa418f3" >
-
-___
-
-**Left-Right Hand Detection**
-
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/c0eaf562-bb89-4b47-b9f8-4bb96ec3e442" width="400" height="240">
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/a7c1a542-8b85-42a2-87fa-bb20ff280a1e" width="400" height="240">
-
-___
-
-**Hand Gesture Detection**
-
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/56434be0-8338-41e2-b060-5b14e69f6325" width="400" height="280">
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/b66a3d35-f7f7-4b75-b7db-c93ee40d6841" width="400" height="280">
-
-## Results
-
-**Math Expression Detection & Canvas** 
-
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/e9558800-a17f-432d-a4f5-d00d0a352cfb" width="400" height="240">
-<img src="https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver/assets/106037441/64664179-a2cc-43a2-af2b-409a6beb4325" width="400" height="240">
 
 ## License
  
